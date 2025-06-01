@@ -1,0 +1,7 @@
+requests
+colorama
+readchar
+PySocks
+minecraft
+subprocess
+mcproto

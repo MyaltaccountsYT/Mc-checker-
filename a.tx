@@ -1,0 +1,35 @@
+{
+  "bot_token": "",
+  "command_prefix": "$",
+  "allowed_guild_ids": [],
+  "free_channel_ids": [
+    1450598555885506614
+  ],
+  "premium_channel_ids": [
+    1450598555617202339
+  ],
+  "booster_channel_ids": [
+    1450598555885506613
+  ],
+  "restock_channel_id": 1450598555617202337,
+  "restock_role_id": 1450598554748981260,
+  "vouch_channel_id": 1450598555885506616,
+  "log_channel_id": 1450598557705965735,
+  "restock_logs_channel_id": 1450598557705965735,
+  "ban_logs_channel_id": 1450598557957750968,
+  "status_log_channel_id": 1450598557705965735,
+  "restocker_logs_id": null,
+  "status_must_be": ".gg/3QzYPmD2nY : Free MC Alts",
+  "status_role_id": 1450598554748981264,
+  "vouch_grace_period_seconds": 120,
+  "free_gen_cooldown_seconds": 1,
+  "premium_gen_cooldown_seconds": 10,
+  "booster_gen_cooldown_seconds": 20,
+  "bot_status": {
+    "type": "playing",
+    "name": ".gg/3QzYPmD2nY | $help"
+  },
+  "embed_color": "#00FFFF",
+  "embed_footer_text": "Flow Cloud",
+  "embed_thumbnail_url": "https://cdn.discordapp.com/attachments/1450598557957750971/1450705011553337406/IMG_5369.png?ex=694381d3&is=69423053&hm=e1d8fe7377be3968c129d4d4e7abf82766160d9f556c5cea4efeb9674835e117&"
+}
